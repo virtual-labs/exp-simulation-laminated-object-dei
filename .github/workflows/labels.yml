@@ -1,6 +1,6 @@
 name: labels
 
-on:
+on: 
   push:
     branches:
       - main
