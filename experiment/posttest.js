@@ -88,25 +88,61 @@
     /////////////// Write the MCQ below in the exactly same described format ///////////////
 
 
-    const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+    const myQuestions = [
+       {
+           question: "1.   LOM is an example of which of the following techniques:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Material Jetting", ///// Write the option 1 inside double quotes
+                b: "Material Sheet Lamination",
+                c: "Material Extrusion",
+                d: "Laser Sintering.",
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2. In LOM process sheets are cut using lasers according to the information stored in:",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
+        a: ".doc file",                  ///// Write the option 1 inside double quotes
+        b: ".svg file",                  ///// Write the option 2 inside double quotes
+        c: ".stl file",  
+        d: "all of the above",
+            },
       correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
+    
+    {
+ question: "3. In LOM process the adhesive coated sheets are glued by application of:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Heat",                  ///// Write the option 1 inside double quotes
+        b: "Pressure",                  ///// Write the option 2 inside double quotes
+        c: "Chemical Reaction",  
+        d: "Both a and b",
+            },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },
 
+    {
+ question: "4. Which of the following is a limittaion(s) of LOM process:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Surface finish and accuracy",                  ///// Write the option 1 inside double quotes
+        b: "No external support material",                  ///// Write the option 2 inside double quotes
+        c: "No chemical reactions",  
+        d: "All of the above",
+            },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },
 
+    {
+ question: "5. Which of the following adhesive coated material(s) can be used for LOM process:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Papers",                  ///// Write the option 1 inside double quotes
+        b: "Plastics",                  ///// Write the option 2 inside double quotes
+        c: "Metal Laminates",  
+        d: "All of the above",
+            },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },
         
     ];
 
