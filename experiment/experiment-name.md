@@ -1,1 +1,1 @@
-## Experiment name
+## Simulation of Laminated Object Manufacturing (LOM) process.
