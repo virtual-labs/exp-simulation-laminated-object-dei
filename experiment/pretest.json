@@ -1,1 +1,46 @@
-[{"question":"1.   LOM is an example of which of the following techniques:","answers":{"a":"Material Jetting","b":"Material Sheet Lamination","c":"Material Extrusion","d":"Laser Sintering."},"correctAnswer":"b"},{"question":"2. In LOM process sheets are cut using lasers according to the information stored in:","answers":{"a":".doc file","b":".svg file","c":".stl file","d":"all of the above"},"correctAnswer":"c"},{"question":"3. In LOM process the adhesive coated sheets are glued by application of:","answers":{"a":"Heat","b":"Pressure","c":"Chemical Reaction","d":"Both a and b"},"correctAnswer":"d"},{"question":"4. Which of the following is a limittaion(s) of LOM process:","answers":{"a":"Surface finish and accuracy","b":"No external support material","c":"No chemical reactions","d":"All of the above"},"correctAnswer":"a"},{"question":"5. Which of the following adhesive coated material(s) can be used for LOM process:","answers":{"a":"Papers","b":"Plastics","c":"Metal Laminates","d":"All of the above"},"correctAnswer":"d"}]
+[{
+	"question": "1.   LOM is an example of which of the following techniques:",
+	"answers": {
+		"a": "Material Jetting",
+		"b": "Material Sheet Lamination",
+		"c": "Material Extrusion",
+		"d": "Laser Sintering."
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "2. In LOM process sheets are cut using lasers according to the information stored in:",
+	"answers": {
+		"a": ".doc file",
+		"b": ".svg file",
+		"c": ".stl file",
+		"d": "all of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "3. In LOM process the adhesive coated sheets are glued by application of:",
+	"answers": {
+		"a": "Heat",
+		"b": "Pressure",
+		"c": "Chemical Reaction",
+		"d": "Both a and b"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "4. Which of the following is a limittaion(s) of LOM process:",
+	"answers": {
+		"a": "Surface finish and accuracy",
+		"b": "No external support material",
+		"c": "No chemical reactions",
+		"d": "All of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "5. Which of the following adhesive coated material(s) can be used for LOM process:",
+	"answers": {
+		"a": "Papers",
+		"b": "Plastics",
+		"c": "Metal Laminates",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}]
